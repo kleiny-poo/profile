@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	font-size: 2em;
+	font-size: 2.5em;
 	font-family: 'VT323', monospace;
 	color: black;
 	background-color: #c255e0;
@@ -10,10 +10,14 @@ body {
 	background-size:cover;
 }
 p {
-	font-size: 1em;
+	font-size: 1.5em;
 }
 #School {
 	/* CSS comment*/
 	color:#e0af55;
 	text-transform:uppercase;
+}
+div p{
+	/* Target every <p> that is a descendant of a <div>*/
+	font-style:italic;
 }
