@@ -1,4 +1,19 @@
 body {
 	text-align: center;
 	font-size: 2em;
+	font-family: 'VT323', monospace;
+	color: black;
+	background-color: #c255e0;
+
+	background-image: url(Sunset.jpg);
+	background-position:center;
+	background-size:cover;
+}
+p {
+	font-size: 1em;
+}
+#School {
+	/* CSS comment*/
+	color:#e0af55;
+	text-transform:uppercase;
 }
