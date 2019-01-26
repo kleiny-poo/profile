@@ -1,23 +1,36 @@
 body {
 	text-align: center;
-	font-size: 2.5em;
+	font-size: 2em;
 	font-family: 'VT323', monospace;
 	color: black;
 	background-color: #c255e0;
 
-	background-image: url(Sunset.jpg);
+	background-image: url(simple.jpg);
 	background-position:center;
 	background-size:cover;
 }
 p {
-	font-size: 1.5em;
+	font-size: 1em;
 }
 #School {
 	/* CSS comment*/
 	color:#e0af55;
 	text-transform:uppercase;
 }
+#FavoriteFoods {
+	color:#e0af55;
+	text-transform:uppercase;
+}
+#Projects {
+	color:#e0af55;
+	text-transform:uppercase;
+}
 div p{
 	/* Target every <p> that is a descendant of a <div>*/
 	font-style:italic;
+}
+nav ol li {
+	display: inline;
+	padding:10px 0px;
+	margin:0px 10px;
 }
