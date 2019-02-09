@@ -17,13 +17,21 @@ p {
 	color:#e0af55;
 	text-transform:uppercase;
 }
-#FavoriteFoods {
+#Favorite-Foods {
 	color:#e0af55;
 	text-transform:uppercase;
 }
 #Projects {
 	color:#e0af55;
 	text-transform:uppercase;
+}
+#About-Me {
+	color:#e0af55;
+	text-transform: uppercase;
+}
+#Contact {
+	color:#e0af55;
+	text-transform: uppercase;
 }
 div p{
 	/* Target every <p> that is a descendant of a <div>*/
