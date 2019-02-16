@@ -24,3 +24,4 @@ function whenHovered(){
 function whenDoneHovering(){
 	body.style.color = "white";
 }
+ var paragraph
